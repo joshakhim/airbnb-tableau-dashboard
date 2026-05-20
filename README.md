@@ -52,7 +52,7 @@ images/     -> Dashboard screenshots
 
 # 📸 Dashboard Preview
 
-![Dashboard Preview](
+![Dashboard Preview]
 
 ---
 
